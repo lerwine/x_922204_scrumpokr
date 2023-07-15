@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 22:19:40</sys_created_on>
+        <sys_id>e157a395470431104501cd9bd36d4380</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_922204_scrumpokr_card_set.x_922204_scrumpokr.card_set_user</sys_name>
+        <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+        <sys_security_acl display_value="x_922204_scrumpokr_card_set">e557a395470431104501cd9bd36d437d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e157a395470431104501cd9bd36d4380</sys_update_name>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 22:19:40</sys_updated_on>
+        <sys_user_role display_value="x_922204_scrumpokr.card_set_user" name="x_922204_scrumpokr.card_set_user">55572f15470431104501cd9bd36d4327</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</application>
+        <file_path/>
+        <instance_id>d80c54a0dbef11102f68c5970596193c</instance_id>
+        <instance_name>dev145540</instance_name>
+        <name>sys_security_acl_role_e157a395470431104501cd9bd36d4380</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>lerwinesa</sys_created_by><sys_created_on>2023-07-14 22:19:40</sys_created_on><sys_id>e157a395470431104501cd9bd36d4380</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_922204_scrumpokr_card_set.x_922204_scrumpokr.card_set_user</sys_name><sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package><sys_policy/><sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope><sys_security_acl display_value="x_922204_scrumpokr_card_set">e557a395470431104501cd9bd36d437d</sys_security_acl><sys_update_name>sys_security_acl_role_e157a395470431104501cd9bd36d4380</sys_update_name><sys_updated_by>lerwinesa</sys_updated_by><sys_updated_on>2023-07-14 22:19:40</sys_updated_on><sys_user_role display_value="x_922204_scrumpokr.card_set_user" name="x_922204_scrumpokr.card_set_user">55572f15470431104501cd9bd36d4327</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1586202466</payload_hash>
+        <record_name>x_922204_scrumpokr_card_set.x_922204_scrumpokr.card_set_user</record_name>
+        <reverted_from/>
+        <source>6cbc8719478031104501cd9bd36d4394</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 22:19:40</sys_created_on>
+        <sys_id>6957a395470431104501cd9bd36d4382</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189567d018b0000001</sys_recorded_at>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 22:19:40</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>ad57a39517043110395e29df5c2dcd81</update_guid>
+        <update_guid_history>ad57a39517043110395e29df5c2dcd81:1586202466</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_922204_scrumpokr_card_set.x_922204_scrumpokr.card_set_user">c6672795470431104501cd9bd36d43a5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 22:19:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>569f6e6ccd984c9894aeedbd45c7b0f1</sys_id>
+        <sys_metadata>e157a395470431104501cd9bd36d4380</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_922204_scrumpokr_card_set.x_922204_scrumpokr.card_set_user</sys_name>
+        <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+        <sys_parent display_value="">e557a395470431104501cd9bd36d437d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+        <sys_scope_delete display_value="">2ecd6fb6dd444994bedf97d3cdaf2019</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_e157a395470431104501cd9bd36d4380</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_e157a395470431104501cd9bd36d4380">6957a395470431104501cd9bd36d4382</sys_update_version>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 22:19:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

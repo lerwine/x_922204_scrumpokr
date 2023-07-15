@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Scrum Poker">de601f9d478031104501cd9bd36d43a3</application>
+        <filter table="x_922204_scrumpokr_card_set">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <name>Card Sets</name>
+        <order>200</order>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_922204_scrumpokr.deck_designer</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 23:12:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7653f3d1474431104501cd9bd36d43a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Card Sets</sys_name>
+        <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+        <sys_update_name>sys_ui_module_7653f3d1474431104501cd9bd36d43a4</sys_update_name>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 23:12:11</sys_updated_on>
+        <table>x_922204_scrumpokr_card_set</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

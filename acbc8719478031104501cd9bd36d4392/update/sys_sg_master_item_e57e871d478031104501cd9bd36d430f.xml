@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_922204_scrumpokr_deck</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Deck Form Screen">697e871d478031104501cd9bd36d430c</embedded_screen>
+        <item_view/>
+        <name>Deck master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 20:30:58</sys_created_on>
+        <sys_id>e57e871d478031104501cd9bd36d430f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deck master_item</sys_name>
+        <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+        <sys_update_name>sys_sg_master_item_e57e871d478031104501cd9bd36d430f</sys_update_name>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 20:30:58</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Deck List Screen View Config">917e0fd9478031104501cd9bd36d433a</view_config>
+    </sys_sg_master_item>
+</record_update>

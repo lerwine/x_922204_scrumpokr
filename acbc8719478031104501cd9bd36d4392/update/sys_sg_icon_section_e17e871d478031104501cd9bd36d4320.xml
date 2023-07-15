@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>e97e871d478031104501cd9bd36d430b</applets>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>horizontal</orientation>
+        <required_roles>x_922204_scrumpokr.user,x_922204_scrumpokr.stakeholder,x_922204_scrumpokr.developer,x_922204_scrumpokr.admin</required_roles>
+        <row_count/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 20:30:58</sys_created_on>
+        <sys_id>e17e871d478031104501cd9bd36d4320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deck</sys_name>
+        <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+        <sys_update_name>sys_sg_icon_section_e17e871d478031104501cd9bd36d4320</sys_update_name>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 20:30:58</sys_updated_on>
+        <table/>
+        <title>Deck</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_icon_section>
+</record_update>

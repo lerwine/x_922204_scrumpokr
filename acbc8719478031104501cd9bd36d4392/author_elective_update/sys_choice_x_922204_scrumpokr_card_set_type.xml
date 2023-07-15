@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="x_922204_scrumpokr_card_set" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>x_922204_scrumpokr_card_set</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>lerwinesa</sys_created_by>
+            <sys_created_on>2023-07-14 22:28:17</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+            <sys_update_name>sys_choice_x_922204_scrumpokr_card_set_type</sys_update_name>
+            <sys_updated_by>lerwinesa</sys_updated_by>
+            <sys_updated_on>2023-07-14 22:28:17</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Points Value</label>
+            <language>en</language>
+            <name>x_922204_scrumpokr_card_set</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>lerwinesa</sys_created_by>
+            <sys_created_on>2023-07-14 22:28:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>lerwinesa</sys_updated_by>
+            <sys_updated_on>2023-07-14 22:28:31</sys_updated_on>
+            <value>points_value</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ambiguous</label>
+            <language>en</language>
+            <name>x_922204_scrumpokr_card_set</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>lerwinesa</sys_created_by>
+            <sys_created_on>2023-07-14 22:28:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>lerwinesa</sys_updated_by>
+            <sys_updated_on>2023-07-14 22:28:58</sys_updated_on>
+            <value>ambiguous</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unattainable</label>
+            <language>en</language>
+            <name>x_922204_scrumpokr_card_set</name>
+            <sequence>300</sequence>
+            <synonyms/>
+            <sys_created_by>lerwinesa</sys_created_by>
+            <sys_created_on>2023-07-14 22:29:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>lerwinesa</sys_updated_by>
+            <sys_updated_on>2023-07-14 22:29:30</sys_updated_on>
+            <value>unattainable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Abstain</label>
+            <language>en</language>
+            <name>x_922204_scrumpokr_card_set</name>
+            <sequence>400</sequence>
+            <synonyms/>
+            <sys_created_by>lerwinesa</sys_created_by>
+            <sys_created_on>2023-07-14 22:29:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>lerwinesa</sys_updated_by>
+            <sys_updated_on>2023-07-14 22:29:48</sys_updated_on>
+            <value>abstain</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

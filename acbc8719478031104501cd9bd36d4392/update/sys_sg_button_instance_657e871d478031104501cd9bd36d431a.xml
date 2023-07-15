@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Deck)">a17e871d478031104501cd9bd36d4317</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Deck)</name>
+        <order/>
+        <parent>e97e871d478031104501cd9bd36d430b</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 20:30:58</sys_created_on>
+        <sys_id>657e871d478031104501cd9bd36d431a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Deck)</sys_name>
+        <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+        <sys_update_name>sys_sg_button_instance_657e871d478031104501cd9bd36d431a</sys_update_name>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 20:30:58</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=657e871d478031104501cd9bd36d431a"/>
+</record_update>

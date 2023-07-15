@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>log</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>bcbccb19478031104501cd9bd36d4326</logo>
+        <menu display_value="Scrum Poker">ec5e4f19478031104501cd9bd36d4358</menu>
+        <name>Scrum Poker</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_922204_scrumpokr</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Plan your sprints using Scum Poker!</short_description>
+        <source>x_922204_scrumpokr</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 20:23:15</sys_created_on>
+        <sys_id>acbc8719478031104501cd9bd36d4392</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-15 03:00:57</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role display_value="x_922204_scrumpokr.user" name="x_922204_scrumpokr.user">f5fc0319478031104501cd9bd36d430b</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=acbc8719478031104501cd9bd36d4392"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>PseudoFibonacci-Preview.svg</file_name>
+        <hash>5da125b68a70ac73364943161bdc53f854f4e3fd7c41f0fa92265a41618f2944</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>49938</size_bytes>
+        <size_compressed>2933</size_compressed>
+        <state>available</state>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 20:23:17</sys_created_on>
+        <sys_id>bcbccb19478031104501cd9bd36d4326</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-14 20:23:18</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>acbc8719478031104501cd9bd36d4392</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="PseudoFibonacci-Preview.svg" sys_id="bcbccb19478031104501cd9bd36d4326">bcbccb19478031104501cd9bd36d4326</sys_attachment>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 20:23:17</sys_created_on>
+        <sys_id>fcbccb19478031104501cd9bd36d4326</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3900</length>
+        <position>1</position>
+        <sys_attachment display_value="PseudoFibonacci-Preview.svg" sys_id="bcbccb19478031104501cd9bd36d4326">bcbccb19478031104501cd9bd36d4326</sys_attachment>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 20:23:17</sys_created_on>
+        <sys_id>70bccb19478031104501cd9bd36d4327</sys_id>
+    </sys_attachment_doc>
+</record_update>

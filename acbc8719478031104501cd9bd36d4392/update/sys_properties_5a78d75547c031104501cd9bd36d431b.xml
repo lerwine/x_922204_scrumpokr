@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Card type value from choice list of the Card Layout (x_922204_scrumpokr_card_layout) table to indicate that the developer is abstaining from the vote.</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_922204_scrumpokr.abstain_card_type</name>
+        <read_roles/>
+        <suffix>abstain_card_type</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 21:15:41</sys_created_on>
+        <sys_id>5a78d75547c031104501cd9bd36d431b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_922204_scrumpokr.abstain_card_type</sys_name>
+        <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+        <sys_update_name>sys_properties_5a78d75547c031104501cd9bd36d431b</sys_update_name>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 21:15:41</sys_updated_on>
+        <type>string</type>
+        <value>abstain</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=5a78d75547c031104501cd9bd36d431b"/>
+</record_update>

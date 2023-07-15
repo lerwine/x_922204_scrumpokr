@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Card type value from choice list of the Card Layout (x_922204_scrumpokr_card_layout) table to indicate the points value for a user story cannot be determined it is not possible to fulfill.</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_922204_scrumpokr.unattainable_card_type</name>
+        <read_roles/>
+        <suffix>unattainable_card_type</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 21:14:26</sys_created_on>
+        <sys_id>a9f7d35547c031104501cd9bd36d4315</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_922204_scrumpokr.unattainable_card_type</sys_name>
+        <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+        <sys_update_name>sys_properties_a9f7d35547c031104501cd9bd36d4315</sys_update_name>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 21:15:52</sys_updated_on>
+        <type>string</type>
+        <value>unattainable</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=a9f7d35547c031104501cd9bd36d4315"/>
+</record_update>
