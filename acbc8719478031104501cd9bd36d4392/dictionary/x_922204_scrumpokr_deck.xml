@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4f2e031d478031104501cd9bd36d438e" label="Deck" max_length="40" name="x_922204_scrumpokr_deck" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Details" max_length="8000" name="details" type="html"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Short Description" mandatory="true" max_length="40" name="short_description" type="string"/>
+    </element>
+</database>

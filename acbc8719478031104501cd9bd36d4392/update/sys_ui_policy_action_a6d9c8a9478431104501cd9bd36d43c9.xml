@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>points</field>
+        <mandatory>false</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-15 00:50:54</sys_created_on>
+        <sys_id>a6d9c8a9478431104501cd9bd36d43c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>points</sys_name>
+        <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+        <sys_update_name>sys_ui_policy_action_a6d9c8a9478431104501cd9bd36d43c9</sys_update_name>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-15 00:50:54</sys_updated_on>
+        <table>x_922204_scrumpokr_card</table>
+        <ui_policy display_value="Points Read-Only if Points Not &quot;Points Value&quot;">b299c4a9478431104501cd9bd36d43b3</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

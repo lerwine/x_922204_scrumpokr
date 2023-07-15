@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bd772b91470431104501cd9bd36d4385" label="Card Set" max_length="40" name="x_922204_scrumpokr_card_set" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Deck" mandatory="true" max_length="32" name="deck" reference="x_922204_scrumpokr_deck" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element display="true" label="Short Description" mandatory="true" max_length="32" name="short_description" type="string"/>
+        <index name="index">
+            <element name="deck"/>
+        </index>
+    </element>
+</database>

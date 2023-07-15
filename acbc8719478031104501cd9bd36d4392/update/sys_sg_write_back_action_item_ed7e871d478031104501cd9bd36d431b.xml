@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit (Deck)</name>
+        <parameter_screen/>
+        <query_condition table="x_922204_scrumpokr_deck">sys_idSTARTSWITH{{Deck sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Deck sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 20:30:58</sys_created_on>
+        <sys_id>ed7e871d478031104501cd9bd36d431b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit (Deck)</sys_name>
+        <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_ed7e871d478031104501cd9bd36d431b</sys_update_name>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 20:30:58</sys_updated_on>
+        <table>x_922204_scrumpokr_deck</table>
+        <template>active={{Deck active}}^description={{Deck description}}^short_description={{Deck short_description}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=ed7e871d478031104501cd9bd36d431b"/>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a1a33bd1474431104501cd9bd36d439b" label="Card" max_length="40" name="x_922204_scrumpokr_card" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Details" max_length="8000" name="details" type="html"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element attributes="isOrder=true" label="Order" max_length="40" name="order" type="integer"/>
+        <element default="0.0" label="Points" mandatory="true" max_length="40" name="points" type="float"/>
+        <element label="Set" mandatory="true" max_length="32" name="set" reference="x_922204_scrumpokr_card_set" type="reference"/>
+        <element label="Short Description" mandatory="true" max_length="32" name="short_description" type="string"/>
+        <element choice="3" default="points_value" label="Type" mandatory="true" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Points Value" sequence="100" value="points_value"/>
+                <element inactive_on_update="false" label="Ambiguous" sequence="200" value="ambiguous"/>
+                <element inactive_on_update="false" label="Unattainable" sequence="300" value="unattainable"/>
+                <element inactive_on_update="false" label="Abstain" sequence="400" value="abstain"/>
+            </choice>
+        </element>
+        <element label="Value Display" mandatory="true" max_length="8" name="value_display" type="string"/>
+        <index name="index">
+            <element name="set"/>
+        </index>
+    </element>
+</database>

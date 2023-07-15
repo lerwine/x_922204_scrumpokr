@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_922204_scrumpokr.stakeholder" name="x_922204_scrumpokr.stakeholder">f9fc8b99478031104501cd9bd36d43cf</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 20:24:26</sys_created_on>
+        <sys_id>b9fc8b99478031104501cd9bd36d43d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f9fc8b99478031104501cd9bd36d43cf</sys_name>
+        <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b9fc8b99478031104501cd9bd36d43d0</sys_update_name>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 20:24:26</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

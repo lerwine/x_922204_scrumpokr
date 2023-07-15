@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Scrum Poker">de601f9d478031104501cd9bd36d43a3</application>
+        <filter/>
+        <name>Card Layouts</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_922204_scrumpokr.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 20:39:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9a601f9d478031104501cd9bd36d43a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Card Layouts</sys_name>
+        <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+        <sys_update_name>sys_ui_module_9a601f9d478031104501cd9bd36d43a7</sys_update_name>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 20:39:30</sys_updated_on>
+        <table>x_922204_scrumpokr_card_layout</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</application>
+        <file_path/>
+        <instance_id>d80c54a0dbef11102f68c5970596193c</instance_id>
+        <instance_name>dev145540</instance_name>
+        <name>sys_ui_module_9a601f9d478031104501cd9bd36d43a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Scrum Poker">de601f9d478031104501cd9bd36d43a3</application><filter/><name>Card Layouts</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_922204_scrumpokr.user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>lerwinesa</sys_created_by><sys_created_on>2023-07-14 20:39:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9a601f9d478031104501cd9bd36d43a7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Card Layouts</sys_name><sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package><sys_policy/><sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope><sys_update_name>sys_ui_module_9a601f9d478031104501cd9bd36d43a7</sys_update_name><sys_updated_by>lerwinesa</sys_updated_by><sys_updated_on>2023-07-14 20:39:30</sys_updated_on><table>x_922204_scrumpokr_card_layout</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1051351224</payload_hash>
+        <record_name>Card Layouts</record_name>
+        <reverted_from/>
+        <source>6cbc8719478031104501cd9bd36d4394</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 20:39:30</sys_created_on>
+        <sys_id>9e601f9d478031104501cd9bd36d43a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18956214d4b0000001</sys_recorded_at>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 20:39:30</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d2601f9ddf8031107f34db40ecc72fa9</update_guid>
+        <update_guid_history>d2601f9ddf8031107f34db40ecc72fa9:1051351224</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>lerwinesa</sys_created_by>
+        <sys_created_on>2023-07-14 22:36:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>5188e1463f724d90b8420aa5ace8d610</sys_id>
+        <sys_metadata>9a601f9d478031104501cd9bd36d43a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Card Layouts</sys_name>
+        <sys_package display_value="Scrum Poker" source="x_922204_scrumpokr">acbc8719478031104501cd9bd36d4392</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scrum Poker">acbc8719478031104501cd9bd36d4392</sys_scope>
+        <sys_scope_delete display_value="">2ecd6fb6dd444994bedf97d3cdaf2019</sys_scope_delete>
+        <sys_update_name>sys_ui_module_9a601f9d478031104501cd9bd36d43a7</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_9a601f9d478031104501cd9bd36d43a7">9e601f9d478031104501cd9bd36d43a9</sys_update_version>
+        <sys_updated_by>lerwinesa</sys_updated_by>
+        <sys_updated_on>2023-07-14 22:36:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
